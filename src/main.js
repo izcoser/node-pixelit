@@ -19,7 +19,7 @@ async function main(){
     const px = new pixelit({ from: img, to: canvas, palette: argv.palette, scale: argv.scale });
     px.pixelate();
     px.convertPalette();
-    //px.resizeImage();
+    px.resizeImage();
     const buffer = px.drawto.toBuffer('image/png');
     fs.writeFileSync(argv.output, buffer);
 }
