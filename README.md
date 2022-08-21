@@ -10,7 +10,7 @@ Node.js tool for creating pixel art through the commandline. Adaptation of the o
 
 # Download
 ```
-https://github.com/izcoser/node-pixelit
+git clone https://github.com/izcoser/node-pixelit
 cd node-pixelit
 npm install
 ```
