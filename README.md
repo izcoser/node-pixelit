@@ -1,6 +1,13 @@
 # node-pixelit
 Node.js tool for creating pixel art through the commandline. Adaptation of the original [Pixelit](https://github.com/giventofly/pixelit).
 
+<p align="middle">
+  <img src="https://raw.githubusercontent.com/izcoser/node-pixelit/main/img/1.jpg"/>
+  <img src="https://raw.githubusercontent.com/izcoser/node-pixelit/main/img/2.jpg"/>
+  <img src="https://raw.githubusercontent.com/izcoser/node-pixelit/main/img/3.jpg"/>
+</p>
+
+
 # Download
 ```
 https://github.com/izcoser/node-pixelit
